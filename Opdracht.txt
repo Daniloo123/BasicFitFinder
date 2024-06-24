@@ -1,0 +1,39 @@
+1. Je hebt een app gemaakt om hotspots te vinden (zie bovenstaande omschrijving) en
+deze heeft een passende naam (‘eindopdracht’ is geen goede naam).
+
+2. Er staan comments in de code ter verduidelijking.
+
+3. De app is verdeeld in componenten met het oog op herbruikbaarheid, die in aparte
+javascript bestanden staan.
+
+4. Je gebruikt JSON-data uit een webservice.
+
+5. Er worden gegevens lokaal opgeslagen, die in een lijstweergave getoond worden.
+Let op. Het gaat hier om gegevens die niet online in de JSON staan. Denk aan:
+favorites, likes, notities, etc.
+
+6. De app heeft verschillende layout modi, die via (eigen) settings in te stellen zijn. Deze
+layout wordt op alle schermen toegepast, en blijft bewaard na afsluiten van de app.
+
+7. Je maakt gebruik van locatie en maps. Zowel de huidige locatie van de gebruiker als
+de locatie van een hotspot kunnen getoond worden.
+
+8. Er worden parameters via navigatie tussen verschillende schermen heen en weer
+gestuurd, zodat je vanuit de lijst een specifieke hotspot op de kaart kunt bekijken.
+
+9. De app heeft een consistente styling en professionele uitstraling. Je gebruikt hiervoor
+stylesheets en/of Tailwind.
+
+Extra toevoegingen
+
+5. Je kunt de lokale gegevens zowel bewerken (edit en delete), als delen (share)
+2. Je gebruikt biometrische beveiliging
+3. Je app helpt om een locatie te vinden (kompas die in goede richting wijst, of route op
+de kaart)
+
+
+Bekijk deze Basic-Fit locatie: Basic-Fit Rotterdam Kralingseweg, Adres: Kralingseweg 224, 3062 CG Rotterdam, Netherlands.
+ Je kunt het hier vinden: https://www.google.com/maps/search/?api=1&query=51.9281074,4.5361951
+
+DEMO LINK
+ https://youtu.be/bRW7S8mqw-g
